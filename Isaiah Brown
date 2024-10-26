@@ -1,0 +1,21 @@
+// This program prints Welcome To Java
+public class Welcome {
+    public static void main(String[] args) {
+        // Print "Welcome to Java" to the console
+        System.out.println("Welcome to Java");
+    }
+}
+// WelcomeToComputerScience.java
+public class WelcomeToComputerScience {
+    public static void main(String[] args) {
+        // Print "Welcome to Computer Science" to the console
+        System.out.println("Welcome to Computer Science");
+    }
+}
+// ProgrammingIsFun.java
+public class ProgrammingIsFun {
+    public static void main(String[] args) {
+        // Print "Programming is fun" to the console
+        System.out.println("Programming is fun");
+    }
+}
